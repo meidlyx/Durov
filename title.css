@@ -1,0 +1,51 @@
+.ser1{
+    font-size: 30px;
+    margin-left: 500px;
+}
+
+.name{
+    margin-left: 350px;
+    font-size: 70px;
+}
+
+.sved{
+    font-size: 25px;
+    margin-left: 650px;
+}
+
+.fone{
+    background-color: rgb(235, 242, 255);
+    width: 1000px;
+    border: 2px solid rgb(0, 166, 255);
+    margin-left: 100px;
+    margin-bottom: 10px;
+    padding-left: 300px;
+    padding-top: 25px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+}
+
+.istochnik{
+    background-color: rgb(235, 242, 255);
+    width: 1000px;
+    border: 5px dashed rgb(0, 166, 255);
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 10px;
+    padding-left: 300px;
+    padding-top: 25px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: #8fd0ff; 
+}
+
+a:hover{
+    color: #8fd0ff;
+    text-decoration: underline;
+}
